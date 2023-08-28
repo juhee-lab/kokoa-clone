@@ -1,0 +1,12 @@
+:root {
+  --yellow: #fae100;
+  --horizontal-space: 25px;
+  --main-border: 1px solid rgba(0, 0, 0, 0.2);
+  --gray1: rgba(0, 0, 0, 0.5);
+  --gray2: rgba(0, 0, 0, 0.4);
+  --gray3: rgba(0, 0, 0, 0.3);
+  --gray4: rgba(0, 0, 0, 0.2);
+  --blue-green: #008080;
+  --beige: #fff1d0;
+  --green: #7a7d3a;
+}
