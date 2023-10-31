@@ -27,7 +27,7 @@
   }
 }
 
-.screen-header__icons .fa-cog:hover {
+.screen-header__icons .fa-gear:hover {
   animation: rotateCog 1s linear infinite;
 }
 .find-badge {
